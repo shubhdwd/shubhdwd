@@ -417,16 +417,6 @@ Led the development team and contributed to backend architecture, API developmen
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20with%20Me-312E81?style=for-the-badge\&logo=leetcode\&logoColor=white)](YOUR_LEETCODE_URL)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice%20Profile-4338CA?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](YOUR_GFG_URL)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Coding%20Profile-6D28D9?style=for-the-badge\&logo=hackerrank\&logoColor=white)](YOUR_HACKERRANK_URL)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive%20Programming-7C3AED?style=for-the-badge\&logo=codechef\&logoColor=white)](YOUR_CODECHEF_URL)
-
-</div>
 
 ---
 
