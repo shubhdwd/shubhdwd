@@ -446,11 +446,18 @@ Led the development team and contributed to backend architecture, API developmen
 
 ---
 
-## GitHub Trophies
+## Beyond The Code
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubhdwd&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+> **I don't just build projects — I lead teams, represent communities, research emerging problems, and architect solutions from idea to execution.**
+
+<br/>
+
+| Leadership & Community | Research | Product Thinking | Engineering |
+|:---:|:---:|:---:|:---:|
+| Led teams across **3 hackathons** and served as **Campus Ambassador for IIT Bombay Techfest** | Developed the **RSIF Framework** | Building solutions around real-world problems | Working across AI, ML & backend systems |
+| Team Lead · Backend Architect · Campus Ambassador | Responsible AI & Governance | Idea → Architecture → Product | Research → Build → Deploy |
 
 </div>
 
@@ -466,11 +473,21 @@ Led the development team and contributed to backend architecture, API developmen
 
 ---
 
-## Contribution Snake
+## Developer Metrics
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/shubhdwd/shubhdwd/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhdwd&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhdwd&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhdwd&theme=tokyonight" width="49%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhdwd&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhdwd&theme=tokyonight&utcOffset=5.5" width="49%" />
 
 </div>
 
