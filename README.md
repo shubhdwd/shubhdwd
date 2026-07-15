@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-6D28D9?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-6D28D9?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shubh-s-portfolio.ayushdwivediyt2006.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/shubhdwd)
 [![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayushdwivediyt2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-312E81?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shubhdwd)
 
@@ -167,7 +167,7 @@ An AI-powered global trade analytics platform combining structured trade intelli
 | **Performance** | Retrieval-driven contextual AI responses and agent orchestration       |
 | **Security**    | Structured backend architecture and controlled information retrieval   |
 | **Impact**      | Makes complex global trade intelligence more accessible and actionable |
-| **Repository**  | [View Repository](YOUR_GLOBEX_REPOSITORY)                              |
+| **Repository**  | [View Repository](https://github.com/shubhdwd/GlobeX)                              |
 
 ### Engineering Overview
 
@@ -193,7 +193,7 @@ A full-stack emergency response platform designed around rapid assistance, locat
 | **Performance** | Real-time GPS tracking and rapid emergency interactions                      |
 | **Security**    | Authentication and controlled emergency information handling                 |
 | **Impact**      | Enables faster emergency response through intelligent digital infrastructure |
-| **Repository**  | [View Repository](YOUR_SAHASYA_REPOSITORY)                                   |
+| **Repository**  | [View Repository](https://github.com/nakhudarahma/Sahasya)                                   |
 
 ### Engineering Overview
 
@@ -219,7 +219,7 @@ A privacy-focused AI image processing platform built around a **zero-retention a
 | **Performance** | Streamlined temporary processing pipeline                                   |
 | **Security**    | Zero-retention architecture designed to avoid persistent user image storage |
 | **Impact**      | Demonstrates privacy-conscious architecture for AI-powered products         |
-| **Repository**  | [View Repository](YOUR_ZEROREUSE_REPOSITORY)                                |
+| **Repository**  | [View Repository](https://github.com/shubhdwd/ZeroReuse-AI)                                |
 
 ### Engineering Overview
 
@@ -245,7 +245,7 @@ An intelligent accessibility analysis system that identifies digital accessibili
 | **Performance** | AI-assisted targeted remediation generation                          |
 | **Security**    | Controlled content analysis and structured processing                |
 | **Impact**      | Helps developers identify and address digital accessibility barriers |
-| **Repository**  | [View Repository](YOUR_ACCESSNX_REPOSITORY)                          |
+| **Repository**  | [View Repository](https://github.com/shubhdwd/AccessNX-AI)                          |
 
 ### Engineering Overview
 
@@ -271,7 +271,7 @@ An end-to-end machine learning system for predicting residential property prices
 | **Performance** | Regression modeling with structured model evaluation                  |
 | **Security**    | Controlled structured-data processing                                 |
 | **Impact**      | Converts historical property data into accessible predictive insights |
-| **Repository**  | [View Repository](YOUR_HOUSE_PRICE_REPOSITORY)                        |
+| **Repository**  | [View Repository](https://github.com/shubhdwd/House-Price-Prediction-Dashboard)                        |
 
 ### Engineering Overview
 
@@ -297,7 +297,7 @@ An AI-powered productivity platform that transforms natural voice input into str
 | **Performance** | Converts unstructured voice commands into structured task actions       |
 | **Security**    | Controlled processing of user-generated task information                |
 | **Impact**      | Reduces friction between capturing ideas and organizing actionable work |
-| **Repository**  | [View Repository](YOUR_TASKIFY_REPOSITORY)                              |
+| **Repository**  | [View Repository](https://github.com/nakhudarahma/Taskify)                              |
 
 </details>
 
@@ -317,7 +317,7 @@ An interactive quiz platform designed to create engaging AI-powered learning and
 | **Performance** | Interactive real-time user experience                 |
 | **Security**    | Structured application data handling                  |
 | **Impact**      | Makes knowledge testing more interactive and engaging |
-| **Repository**  | [View Repository](YOUR_QUBIT_REPOSITORY)              |
+| **Repository**  | [Coming Soon](YOUR_QUBIT_REPOSITORY)              |
 
 </details>
 
@@ -337,7 +337,7 @@ An experimental interactive AI experience combining camera input, web technologi
 | **Performance** | Real-time camera-driven interaction                                       |
 | **Security**    | User-controlled camera access                                             |
 | **Impact**      | Explores creative applications of AI and browser-based interaction design |
-| **Repository**  | [View Repository](YOUR_VECNA_REPOSITORY)                                  |
+| **Repository**  | [View Repository](https://github.com/shubhdwd/AI-Vecna-Curse-Exprerience)                                  |
 
 </details>
 
