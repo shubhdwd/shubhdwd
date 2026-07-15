@@ -32,13 +32,13 @@
 
 I am a **B.Sc. Data Science student at B.K. Birla College, Kalyan**, focused on building intelligent, scalable, and research-driven software systems across **Machine Learning, Artificial Intelligence, Backend Engineering, and AI-powered product development**.
 
-My work spans the complete engineering lifecycle — from **data exploration, feature engineering, experimentation, and machine learning** to designing **REST APIs, scalable backend architectures, RAG pipelines, vector-based retrieval systems, and agentic AI workflows**.
+My work spans the complete engineering lifecycle - from **data exploration, feature engineering, experimentation, and machine learning** to designing **REST APIs, scalable backend architectures, RAG pipelines, vector-based retrieval systems, and agentic AI workflows**.
 
 I am particularly interested in building systems where **AI moves beyond isolated models and becomes part of complete, production-oriented products**. My projects explore real-world domains including global trade intelligence, accessibility, public safety, privacy-preserving AI, productivity, and predictive analytics.
 
 Alongside engineering, I actively explore **AI research and responsible innovation**. My research work proposes the **RSIF Framework**, examining how accountability can be embedded into the product, governance, and lifecycle decisions of early-stage AI companies.
 
-I approach technology with a **product engineering mindset** — identifying meaningful problems, architecting practical systems, and combining AI, backend engineering, and user experience to build solutions with measurable real-world value.
+I approach technology with a **product engineering mindset** - identifying meaningful problems, architecting practical systems, and combining AI, backend engineering, and user experience to build solutions with measurable real-world value.
 
 ### Open To
 
