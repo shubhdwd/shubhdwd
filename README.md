@@ -528,20 +528,6 @@ open_to:
   - Early-Stage AI Startup Projects
 ```
 
----
-
-## Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-Let's%20Talk-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayushdwivediyt2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-4F46E5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/shubhdwd)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-312E81?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shubhdwd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge\&logo=vercel\&logoColor=white)](shubh-s-portfolio.ayushdwivediyt2006.workers.dev)
-
-</div>
-
----
 
 <div align="center">
 
